@@ -18,5 +18,4 @@ just some made-up customer information as shown below.
 | 4       | jojo      | 19       |      |      |
 | 5       | nina      | 16       |      |      |
 |         |           |          |      |      |
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+
